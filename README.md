@@ -16,14 +16,14 @@ Watch this video: xxxxxxxxxxxxxxxxx
 
 DOWNLOAD THE APP
 
-Remotexy* available for IOS and Android
+* Remotexy available for IOS and Android
 * If you intend to run this car over the internet you will need to register for a free account.
 
 
 PRINT THE PARTS
 
-3D print of the Carlandoo parts. 
-Follow the guide in https://www.thingiverse.com/thing:3928745
+* 3D print of the Carlandoo parts. 
+* Follow the guide in https://www.thingiverse.com/thing:3928745
 
 
 BUILD THE ELECTRONICS
