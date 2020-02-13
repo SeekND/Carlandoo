@@ -11,9 +11,6 @@ This means that if you want to control your ESP via the internet you don't have 
 
 For your benefit I made two seperate codes, one for controlling the Carlandoo locally and one for controlling it over the internet.
 
-Want to find out how it works?
-Watch this video: xxxxxxxxxxxxxxxxx
-
 
 ## DOWNLOAD THE APP
 
