@@ -1,7 +1,6 @@
 # Carlandoo, the 1:32 Local\Internet controlled Crawler #
 
 ## See explanation video here: ##
-## pending... ##
 
 
 It's been a while since I've wanted to control a car using a mobile phone.
