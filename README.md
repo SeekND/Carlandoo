@@ -1,5 +1,7 @@
-# Carlandoo
-1:32 Local\Internet controlled Crawler
+# Carlandoo, the 1:32 Local\Internet controlled Crawler #
+
+## See explanation video here: ##
+## pending... ##
 
 
 It's been a while since I've wanted to control a car using a mobile phone.
@@ -14,19 +16,19 @@ Want to find out how it works?
 Watch this video: xxxxxxxxxxxxxxxxx
 
 
-DOWNLOAD THE APP
+## DOWNLOAD THE APP
 
 * Remotexy available for IOS and Android
 * If you intend to run this car over the internet you will need to register for a free account.
 
 
-PRINT THE PARTS
+## PRINT THE PARTS
 
 * 3D print of the Carlandoo parts. 
 * Follow the guide in https://www.thingiverse.com/thing:3928745
 
 
-BUILD THE ELECTRONICS
+## BUILD THE ELECTRONICS
 
 You will need the following electronic parts as mentioned in Thingyverse*
 
@@ -48,22 +50,22 @@ You will need to open up two of the 2.2g servos and remove the small esc inside.
 Once the esc is removed, extend the motor cables from inside the servo so they will be able to reach the ESC.
 Connect the motors in paralell to the ESC motor connection.
 
-> Connect battery connector to ESC
-> Connect esc + to VIN on your esp8266
-> Connect esc - to Ground on your esp8266
-> Connect esc signal to D3
-> Connect steering servo + (red cable) to VIN on your esp8266
-> Connect steering servo - (black cable) to Ground on your esp8266
-> Connect steering servo signal (yellow cable) to D5
+* Connect battery connector to ESC
+* Connect esc + to VIN on your esp8266
+* Connect esc - to Ground on your esp8266
+* Connect esc signal to D3
+* Connect steering servo + (red cable) to VIN on your esp8266
+* Connect steering servo - (black cable) to Ground on your esp8266
+* Connect steering servo signal (yellow cable) to D5
 
 If you want to have lights to your vehicle the code is already done!
-> Connect LED negative pole to Ground on your esp8266
-> Connect LED positive pole to 
+* Connect LED negative pole to Ground on your esp8266
+* Connect LED positive pole to D6
 
 
 
 
-LOCAL CARLANDOO CODE
+## LOCAL CARLANDOO CODE
 
 Connect the esp8266 to your computer with a usb cable and load up the localcarlando.ino code using arduino.
 My upload settings are:
@@ -82,7 +84,7 @@ Enjoy!
 
 
 
-INTERNET CARLANDOO CODE
+## INTERNET CARLANDOO CODE
 
 Before uploading any code you need to register for a free account in remotexy.com
 Once registered, log in and press My Tokens on the top right of the page.
