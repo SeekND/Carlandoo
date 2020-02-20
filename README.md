@@ -107,3 +107,19 @@ Once the flash is complete connect a battery to your Carlandoo, wait a few momen
 
 You should now be connected to your Carlandoo and you or anyone with that token will be able to control it from anywhere in the world!!
 Enjoy!
+
+
+# CONTACTS
+
+- https://www.youtube.com/SeekNDFPV
+- https://www.facebook.com/SeekNDFPV/
+
+
+# SUPPORT
+
+If you'd like to help support the project please contribute with ideas.
+
+If you would like to contribute in another way, I would be very grateful as well.
+http://paypal.me/SeekND
+
+Thank you for your support!!
