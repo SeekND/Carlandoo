@@ -14,8 +14,9 @@ For your benefit I made two seperate codes, one for controlling the Carlandoo lo
 
 ## DOWNLOAD THE APP
 
-* Remotexy available for IOS and Android
+* Remotexy is available for IOS and Android >> http://remotexy.com
 * If you intend to run this car over the internet you will need to register for a free account.
+* Just as a note, I have 0 involvement with this company. I just found it to be a really great app for what I wanted to do :)
 
 
 ## PRINT THE PARTS
@@ -63,10 +64,12 @@ If you want to have lights to your vehicle the code is already done!
 
 ## LOCAL CARLANDOO CODE
 
-Connect the esp8266 to your computer with a usb cable and load up the localcarlando.ino code using arduino.
+Connect the esp8266 to your computer with a usb cable and load up the localcarlando.ino code using Arduino IDE.
+If you don't know how to use Arduino IDE with ESP8266 please watch this short video: https://www.youtube.com/watch?v=OC9wYhv6juM
 My upload settings are:
 Board: Wemos D1 R1
 Erase flash: All flash contents
+All other settings are default
 
 Once the flash is complete connect a battery to your Carlandoo, wait a few moments and you should be able to see a new network appear in your phone.
 - Connect to this wireless network
@@ -87,7 +90,8 @@ Once registered, log in and press My Tokens on the top right of the page.
 Create a new token for your car. Name it as you see fit.
 
 
-Connect the esp8266 to your computer with a usb cable and load up the internetcarlando.ino code using arduino.
+Connect the esp8266 to your computer with a usb cable and load up the internetcarlando.ino code using Arduino IDE.
+If you don't know how to use Arduino IDE with ESP8266 please watch this short video: https://www.youtube.com/watch?v=OC9wYhv6juM
 Before uploading you will need to change a few settings.
 
 You will need to fill in your access point name (any accesspoints with spaces will NOT work)
@@ -99,6 +103,7 @@ You are now ready for upload :)
 My upload settings are:
 Board: Wemos D1 R1
 Erase flash: All flash contents
+All other settings are default
 
 Once the flash is complete connect a battery to your Carlandoo, wait a few moments and your Carlandoo should now be connected to your accesspoint.
 - Launch RemoteXY app
