@@ -42,7 +42,7 @@ You will need the following electronic parts as mentioned in Thingyverse*
 Start by placing the ESP8266 in the bottom part of the base body of the Carlandoo.
 I prefer putting the USB facing backwards so it's easier to install the code afterwards
 
-Here comes the hard part. It's best if you watch this video to understand what is being done >> 
+Here comes the hard part. It's best if you watch this video to understand what is being done >> https://youtu.be/6lzFsBAROm0?t=883
 
 You will need to open up two of the 2.2g servos and remove the small esc inside.
 Once the esc is removed, extend the motor cables from inside the servo so they will be able to reach the ESC.
