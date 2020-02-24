@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=6lzFsBAROm0
 
 
 It's been a while since I've wanted to control a car using a mobile phone.
-I got to work and found these amazing devices called ESP8266 that create their own wifi network and an even more amazing app called RemoteXY that allows you to connect to said ESP8266 AND even design your own graphic inferface.
+I got to work and found these amazing devices called ESP8266 that create their own wifi network and an even more amazing app called RemoteXY that allows you to connect to said ESP8266 AND even design your own graphical inferface.
 
 While studying this app I found it even is able to host a middle man server that your ESP connects to.
 This means that if you want to control your ESP via the internet you don't have to open up ports in your router, like you do with other apps.
