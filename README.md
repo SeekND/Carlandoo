@@ -67,6 +67,8 @@ If you want to have lights to your vehicle the code is already done!
 
 Connect the esp8266 to your computer with a usb cable and load up the localcarlando.ino code using Arduino IDE.
 If you don't know how to use Arduino IDE with ESP8266 please watch this short video: https://www.youtube.com/watch?v=OC9wYhv6juM
+Remember you will need to install the RemoteXY Library in Arduino IDE. Read up on RemoteXY here: https://remotexy.com/en/help/
+
 My upload settings are:
 Board: Wemos D1 R1
 Erase flash: All flash contents
@@ -93,6 +95,8 @@ Create a new token for your car. Name it as you see fit.
 
 Connect the esp8266 to your computer with a usb cable and load up the internetcarlando.ino code using Arduino IDE.
 If you don't know how to use Arduino IDE with ESP8266 please watch this short video: https://www.youtube.com/watch?v=OC9wYhv6juM
+Remember you will need to install the RemoteXY Library in Arduino IDE. Read up on RemoteXY here: https://remotexy.com/en/help/
+
 Before uploading you will need to change a few settings.
 
 You will need to fill in your access point name (any accesspoints with spaces will NOT work)
