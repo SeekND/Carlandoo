@@ -33,7 +33,7 @@ Servo myesc;
 // RemoteXY connection settings 
 #define REMOTEXY_WIFI_SSID "Carlandoo"
 #define REMOTEXY_WIFI_PASSWORD ""
-#define REMOTEXY_SERVER_PORT 1234
+#define REMOTEXY_SERVER_PORT 6789
 
 
 // RemoteXY configurate  
